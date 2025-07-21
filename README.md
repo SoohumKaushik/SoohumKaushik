@@ -2,13 +2,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoohumKaushik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg5ZDJrYTBxbWo1anE2YnJ5NDJ2ZDA5Y2U1MWg2NnNyeGttZGt2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
+<img align="right" height="117" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg5ZDJrYTBxbWo1anE2YnJ5NDJ2ZDA5Y2U1MWg2NnNyeGttZGt2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
 
 ###
 
@@ -55,10 +49,10 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoohumKaushik/SoohumKaushik/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoohumKaushik/SoohumKaushik/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SoohumKaushik/SoohumKaushik/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoohumKaushik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=SoohumKaushik&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoohumKaushik&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
